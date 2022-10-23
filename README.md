@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Might, Liberty, Tradition, Wealth, Peace, Authority, and Progress.
+# BrazilianValues.github.io
+This test will meansure what you are in brazilian politics. Maybe a Bolsonarist, Lulist or even Third-Way Liberal.
